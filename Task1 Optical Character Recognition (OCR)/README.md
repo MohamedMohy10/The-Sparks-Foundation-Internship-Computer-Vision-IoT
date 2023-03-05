@@ -1,6 +1,6 @@
 ## Description
 
 A text detector which extracts printed or handwritten text from an image and saves the extracted text to a .txt file
-### used technologies :
-open cv
-pytesseract
+#### Used technologies :
+- open cv
+- pytesseract

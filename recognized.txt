@@ -1,7 +1,0 @@
-Optical Character Recognition (OCR)
-
-A process of recognizing text inside images and converting it into an electronic form.
-
-These images could be of handwritten text or printed text.
-
-like documents, receipts, name cards, etc., or even a natural scene photograph.

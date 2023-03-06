@@ -4,4 +4,4 @@ Code files of the Projects done at Computer Vision & Iot internship provided by 
 <h2> Projects List </h2>
 <ol>
   <li> Optical Character Recognition (OCR) </li>
-  <li> 2. Color Identification in Images </li>
+  <li> Color Identification in Images </li>

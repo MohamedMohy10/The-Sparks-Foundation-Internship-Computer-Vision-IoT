@@ -5,4 +5,4 @@ A text detector which extracts printed or handwritten text from an image and sav
 - OpenCV
 - pytesseract
 
-  <p><a href="https://youtu.be/TFRE-8isSBE" rel="nofollow">### Video</a></p>
+  <p><a href="https://youtu.be/TFRE-8isSBE" rel="nofollow">Demo</a></p>

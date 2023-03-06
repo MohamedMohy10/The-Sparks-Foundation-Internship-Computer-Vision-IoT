@@ -1,4 +1,4 @@
-## Description
+# Description
 
 A text detector which extracts printed or handwritten text from an image and saves the extracted text to a .txt file
 #### Used technologies :
@@ -6,4 +6,4 @@ A text detector which extracts printed or handwritten text from an image and sav
 - pytesseract
 
 
-#### <p><a href="https://youtu.be/TFRE-8isSBE" rel="nofollow">Demo Video of Project</a></p>
+### <p><a href="https://youtu.be/TFRE-8isSBE" rel="nofollow">Demo Video of Project</a></p>

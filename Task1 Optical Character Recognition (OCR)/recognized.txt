@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-
-Optical Character Recognition (OCR)
-A process of recognizing text inside images and converting it into an electronic form.
-
-These images could be of handwritten text or printed text.
-
-e documents, receipts, name cards, etc., or even a natural scene photograph.
-
-
 Optical Character Recognition (OCR)
 
 A process of recognizing text inside images and converting it into an electronic form.
@@ -15,24 +5,3 @@ A process of recognizing text inside images and converting it into an electronic
 These images could be of handwritten text or printed text.
 like documents, receipts, name cards, etc., or even a natural scene photograph.
 
-=======
->>>>>>> b0dc174d9dcd94a34d936a507723a3dc37ced940
-Optical Character Recognition (OCR)
-
-A process of recognizing text inside images and converting it into an electronic form.
-
-These images could be of handwritten text or printed text.
-
-like documents, receipts, name cards, etc., or even a natural scene photograph.
-<<<<<<< HEAD
-
-Optical Character Recognition (OCR)
-
-A process of recognizing text inside images and converting it into an electronic form.
-
-These images could be of handwritten text or printed text.
-
-like documents, receipts, name cards, etc., or even a natural scene photograph.
-
-=======
->>>>>>> b0dc174d9dcd94a34d936a507723a3dc37ced940

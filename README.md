@@ -5,3 +5,4 @@ Code files of the Projects done at Computer Vision & Iot internship provided by 
 <ol>
   <li> Optical Character Recognition (OCR) </li>
   <li> Color Identification in Images </li>
+  <li> Social Distancing detector </li>

@@ -7,3 +7,4 @@ Code files of the Projects done at Computer Vision & Iot internship provided by 
   <li> Color Identification in Images </li>
   <li> Social Distancing detector </li>
   <li> Face Mask Detection </li>
+  <li> Traffic sign classification System </li>

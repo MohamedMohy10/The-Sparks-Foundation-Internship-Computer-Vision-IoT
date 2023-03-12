@@ -1,6 +1,6 @@
 ## Description
 
-Traffic signs classifier which can be used in autonomus vehicles to make them recognize and understand traffic signs for a better self-driving experience with a 95.6% accuracy.
+Traffic sign classifier which can be used in autonomous vehicles to make them recognize and understand traffic signs for a better self-driving experience with a 95.6% accuracy.
 
 #### Used technologies :
 - OpenCV
